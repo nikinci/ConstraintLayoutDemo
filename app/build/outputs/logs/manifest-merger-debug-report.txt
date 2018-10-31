@@ -1,0 +1,207 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-alpha06] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-ktx-1.0.0-alpha06.aar/e6cf58560019b9e23281f82514064a9d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha06] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-1.0.0-alpha06.aar/696dfa0aad80a472bec6394922265caf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0-rc01] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/material-1.0.0-rc01.aar/86b0e73cf43cba4d02b575401b9db814/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/c4df04b6faeff174456e69457cfdaf08/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-alpha06] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-ktx-1.0.0-alpha06.aar/74a648cc165b3ce7baef260df102a90e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha06] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-1.0.0-alpha06.aar/1469168dfcf2429886b5e744eaf93162/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/core-ktx-1.0.0.aar/16c572fb0fa808df6d470f344c8864d8/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/85248ea1d9ba24770931bd2f624cd724/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-alpha06] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-ktx-1.0.0-alpha06.aar/dd52e3a004243cb4d1df992db44202e0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-alpha06] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-ktx-1.0.0-alpha06.aar/8a2d4fe5df5ef21cb0da6179e72ad0ac/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/a0170fa2f78f60630952c21aca533511/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/ad8595b7913bc214fe9cb3bb323c6891/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0-rc01.aar/c2e8e3bc98a2ffbfac68444ac45b7858/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/aaeb19dfdfda8c72fb7054f9f10daab8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha06] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-1.0.0-alpha06.aar/8cd2776ccfb514a4a7d2972be3581d7d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/d25c26e0fc938afb26d38ee118f0eccf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/aef62a2c42e060da6f15a3a52ee8fecf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/f4fe680edcd910242354b455e40fc270/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0-rc01] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/transition-1.0.0-rc01.aar/588af8e74730e08baed860d2f99fc37e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/cfd66d30a385fde7ffae5fbca0403680/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/e18dccad54f1be734306020bc28c3e94/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/81dd013b715354818090b63ea0e7eaca/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/11b73ef2fa84eabfba085476b8899b53/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/697c4ac97a496036a1401234d0a96de5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/91646b171d827dda16ca8c0b7fc81dfe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/6264037b0fccef60a2e048394dce1adf/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha06] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-1.0.0-alpha06.aar/8642519885fbd99e914ccb91c1a0a775/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/a70526eeea4759f2da186c543b743b99/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/cd839d8e74ed59277cf4fd250f61da5a/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/0993564634c7d2c93db206522030aab7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/62a6448310b90fd7db48b6e6b19e6b0d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/5562157d778c1e735bf0f0070e437f7a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/a7c3f7e51ea3a2e51a994afa015d0a6f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/cc4bd5c242d10d03988f7899f25b497a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/6820230b4972287e523f18a60e9c398f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0-rc01] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0-rc01.aar/6b63bcc38d5fd9f654cfdae03dbb1d18/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/b48d7d9e1633787d19b36f7b79a64301/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/4f625d61bd0af7322621905ae1887de4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/6273345ca101fbf57f3d81e746b51ab4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/b18210838f810b659b0eaa3d76ea5cbb/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml:3:58-94
+		INJECTED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml:3:11-57
+	android:versionCode
+		INJECTED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.google.android.material:material:1.0.0-rc01] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/material-1.0.0-rc01.aar/86b0e73cf43cba4d02b575401b9db814/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0-rc01] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/material-1.0.0-rc01.aar/86b0e73cf43cba4d02b575401b9db814/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/85248ea1d9ba24770931bd2f624cd724/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/85248ea1d9ba24770931bd2f624cd724/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/a70526eeea4759f2da186c543b743b99/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/a70526eeea4759f2da186c543b743b99/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/cd839d8e74ed59277cf4fd250f61da5a/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/cd839d8e74ed59277cf4fd250f61da5a/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/a70526eeea4759f2da186c543b743b99/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml:8:13-45
+	tools:ignore
+		ADDED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml:12:13-52
+	android:roundIcon
+		ADDED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml:11:13-44
+activity#com.nikinci.constraintdemo.MainActivity
+ADDED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml:15:17-68
+	android:name
+		ADDED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml:17:17-76
+	android:name
+		ADDED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml:17:27-74
+activity#com.nikinci.constraintdemo.constraintAnimation.ConstraintAnimation1Activity
+ADDED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml:20:9-85
+	android:name
+		ADDED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml:20:19-83
+activity#com.nikinci.constraintdemo.constraintAnimation.ConstraintAnimation2Activity
+ADDED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml:21:9-85
+	android:name
+		ADDED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml:21:19-83
+uses-sdk
+INJECTED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-alpha06] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-ktx-1.0.0-alpha06.aar/e6cf58560019b9e23281f82514064a9d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-alpha06] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-ktx-1.0.0-alpha06.aar/e6cf58560019b9e23281f82514064a9d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha06] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-1.0.0-alpha06.aar/696dfa0aad80a472bec6394922265caf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha06] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-1.0.0-alpha06.aar/696dfa0aad80a472bec6394922265caf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0-rc01] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/material-1.0.0-rc01.aar/86b0e73cf43cba4d02b575401b9db814/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0-rc01] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/material-1.0.0-rc01.aar/86b0e73cf43cba4d02b575401b9db814/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/c4df04b6faeff174456e69457cfdaf08/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/c4df04b6faeff174456e69457cfdaf08/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-alpha06] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-ktx-1.0.0-alpha06.aar/74a648cc165b3ce7baef260df102a90e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-alpha06] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-ktx-1.0.0-alpha06.aar/74a648cc165b3ce7baef260df102a90e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha06] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-1.0.0-alpha06.aar/1469168dfcf2429886b5e744eaf93162/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha06] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-1.0.0-alpha06.aar/1469168dfcf2429886b5e744eaf93162/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/core-ktx-1.0.0.aar/16c572fb0fa808df6d470f344c8864d8/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/core-ktx-1.0.0.aar/16c572fb0fa808df6d470f344c8864d8/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/85248ea1d9ba24770931bd2f624cd724/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/85248ea1d9ba24770931bd2f624cd724/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-alpha06] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-ktx-1.0.0-alpha06.aar/dd52e3a004243cb4d1df992db44202e0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-alpha06] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-ktx-1.0.0-alpha06.aar/dd52e3a004243cb4d1df992db44202e0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-alpha06] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-ktx-1.0.0-alpha06.aar/8a2d4fe5df5ef21cb0da6179e72ad0ac/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-alpha06] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-ktx-1.0.0-alpha06.aar/8a2d4fe5df5ef21cb0da6179e72ad0ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/a0170fa2f78f60630952c21aca533511/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/a0170fa2f78f60630952c21aca533511/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/ad8595b7913bc214fe9cb3bb323c6891/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/ad8595b7913bc214fe9cb3bb323c6891/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0-rc01.aar/c2e8e3bc98a2ffbfac68444ac45b7858/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0-rc01.aar/c2e8e3bc98a2ffbfac68444ac45b7858/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/aaeb19dfdfda8c72fb7054f9f10daab8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/aaeb19dfdfda8c72fb7054f9f10daab8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha06] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-1.0.0-alpha06.aar/8cd2776ccfb514a4a7d2972be3581d7d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha06] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-1.0.0-alpha06.aar/8cd2776ccfb514a4a7d2972be3581d7d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/d25c26e0fc938afb26d38ee118f0eccf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/d25c26e0fc938afb26d38ee118f0eccf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/aef62a2c42e060da6f15a3a52ee8fecf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/aef62a2c42e060da6f15a3a52ee8fecf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/f4fe680edcd910242354b455e40fc270/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/f4fe680edcd910242354b455e40fc270/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0-rc01] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/transition-1.0.0-rc01.aar/588af8e74730e08baed860d2f99fc37e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0-rc01] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/transition-1.0.0-rc01.aar/588af8e74730e08baed860d2f99fc37e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/cfd66d30a385fde7ffae5fbca0403680/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/cfd66d30a385fde7ffae5fbca0403680/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/e18dccad54f1be734306020bc28c3e94/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/e18dccad54f1be734306020bc28c3e94/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/81dd013b715354818090b63ea0e7eaca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/81dd013b715354818090b63ea0e7eaca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/11b73ef2fa84eabfba085476b8899b53/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/11b73ef2fa84eabfba085476b8899b53/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/697c4ac97a496036a1401234d0a96de5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/697c4ac97a496036a1401234d0a96de5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/91646b171d827dda16ca8c0b7fc81dfe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/91646b171d827dda16ca8c0b7fc81dfe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/6264037b0fccef60a2e048394dce1adf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/6264037b0fccef60a2e048394dce1adf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha06] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-1.0.0-alpha06.aar/8642519885fbd99e914ccb91c1a0a775/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha06] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-1.0.0-alpha06.aar/8642519885fbd99e914ccb91c1a0a775/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/a70526eeea4759f2da186c543b743b99/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/a70526eeea4759f2da186c543b743b99/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/cd839d8e74ed59277cf4fd250f61da5a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/cd839d8e74ed59277cf4fd250f61da5a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/0993564634c7d2c93db206522030aab7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/0993564634c7d2c93db206522030aab7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/62a6448310b90fd7db48b6e6b19e6b0d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/62a6448310b90fd7db48b6e6b19e6b0d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/5562157d778c1e735bf0f0070e437f7a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/5562157d778c1e735bf0f0070e437f7a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/a7c3f7e51ea3a2e51a994afa015d0a6f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/a7c3f7e51ea3a2e51a994afa015d0a6f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/cc4bd5c242d10d03988f7899f25b497a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/cc4bd5c242d10d03988f7899f25b497a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/6820230b4972287e523f18a60e9c398f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/6820230b4972287e523f18a60e9c398f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-rc01] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0-rc01.aar/6b63bcc38d5fd9f654cfdae03dbb1d18/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-rc01] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0-rc01.aar/6b63bcc38d5fd9f654cfdae03dbb1d18/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/b48d7d9e1633787d19b36f7b79a64301/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/b48d7d9e1633787d19b36f7b79a64301/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/4f625d61bd0af7322621905ae1887de4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/4f625d61bd0af7322621905ae1887de4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/6273345ca101fbf57f3d81e746b51ab4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/6273345ca101fbf57f3d81e746b51ab4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/b18210838f810b659b0eaa3d76ea5cbb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nikinci/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/b18210838f810b659b0eaa3d76ea5cbb/AndroidManifest.xml:20:5-44
+INJECTED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/src/main/AndroidManifest.xml
