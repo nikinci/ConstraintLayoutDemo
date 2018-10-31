@@ -1,4 +1,0 @@
-#Wed Oct 31 11:20:17 EET 2018
-base.0=/Users/nikinci/workspace/ownprojects/ConstraintLayoutDemo/app/build/intermediates/transforms/dexMerger/debug/9
-path.0=classes.dex
-renamed.0=classes.dex
